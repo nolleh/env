@@ -1,0 +1,3 @@
+[
+	{ "keys": ["alt+,"], "command": "run_existing_window_command", "args": {"id": "repl_scheme", "file": "config/Scheme/Main.sublime-menu"}}
+]
